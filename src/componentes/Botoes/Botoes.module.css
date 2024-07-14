@@ -1,0 +1,22 @@
+/* src/componentes/Botoes/Botoes.module.css */
+.botoesContainer {
+    display: flex;
+    justify-content: flex-end;
+    gap: 10px;
+}
+
+.botaoSalvar {
+    padding: 10px 20px;
+    background-color: #ed0d0d; 
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+.botaoLimpar {
+    padding: 10px 20px;
+    background-color: #6c757d; 
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}

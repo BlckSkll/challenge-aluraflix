@@ -1,0 +1,13 @@
+.container {
+    border-radius: 5px;
+    padding: 10px;
+    width: 132px;
+    height: 70px;
+    display: flex;
+    
+}
+
+.categoria {
+    padding: 10px;
+    color: #fff;
+}
